@@ -1,0 +1,19 @@
+h1 {
+	background-color: gray;
+	font-size: 30px;
+	text-align: center;
+}
+
+h2 {
+	background-color: gray;
+	font-size: 30px;
+	text-align: center;
+}
+
+div {
+	background-color: lightgray;
+}
+
+p {
+	font-family: sans-serif;
+}
